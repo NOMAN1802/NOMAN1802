@@ -28,7 +28,7 @@
   
   <!-- Twitter Badge -->
   <a href="https://x.com/noman98253" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mustakim_al_noman?logo=twitter&style=for-the-badge" alt="mustakim al noman" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://img.shields.io/twitter/follow/noman?logo=twitter&style=for-the-badge" alt="mustakim al noman" style="vertical-align: middle; margin-right: 10px;" />
   </a>
 
   <!-- GitHub Followers Badge -->
