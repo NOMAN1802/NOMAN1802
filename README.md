@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Mustakim Al Noman</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h4 align="center">A passionate MERN Stack developer from Bangladesh with expertise in building scalable web applications. Skilled in MongoDB, Express, React, and Node.js. Focused on delivering efficient, user-friendly, and high-performance solutions.</h4> 
+
 
 ## :eyes: Current overview
 
@@ -53,8 +54,12 @@
 </p>
 
 
-## :computer: Languages and Tools:
+## :computer:  Technologies and Tools:
 <br>
+<h4 align="center"> As a MERN stack developer, I specialize in building full-stack applications using MongoDB, Express, React, and Node.js. I create dynamic, scalable, and high-performance web solutions tailored to user needs.</h4>
+
+
+</br>
 <p align="left" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
