@@ -1,4 +1,4 @@
-![MasterHead](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
+<img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" alt="MasterHead" style="width: 100%; height: auto;" />
 
 
 
